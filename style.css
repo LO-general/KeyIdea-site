@@ -3,11 +3,12 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(
     135deg,
-    #0f4bd8 0%,
-    #2f5be3 25%,
+    #133993 0%,
+    #3261ec 15%,
+    #4c75ef 35%,
     #6a4de0 50%,
-    #a23aa0 75%,
-    #dc2f2f 100%
+    #a63ca4 75%,
+    #ff2121 100%
     );
     color: white;
     }
